@@ -22,11 +22,20 @@ This list is far from complete, so contributions are always welcome!
 
 ## Events
 
-TBD
+- [Comiket / Comic Market](http://www.comiket.co.jp/index_e.html) - The largest doujinshi fair in the world, which is not really limited to doujinshi (official goods are also available). The event is usually held twice a year: summer (mid-**August**, during Obon holiday) and winter (around **December** 28 - 31).
+- [Anime Japan](https://www.anime-japan.jp/en/) - Exhibition of anime-related stuff, which is usually held near the end of **March**.
+- [Tokyo Game Show](expo.nikkeibp.co.jp/tgs/) - Video game annual convention, which is held in **September**.
+- [World Cosplay Summit](http://www.worldcosplaysummit.jp/en/) - An annual international cosplay event, which parade is usually held on the first weekend of **August**.
+- [Anisama / Animelo Summer Live](https://anisama.tv/) - The biggest annual anime songs music festival in Japan. The event is usually held on the last weekend of **August**.
+- [Wonfes / Wonder Festival](http://wf.kaiyodo.net/) - The largest exhibition / fair of garage kits, sculptures (figures), mecha / sci-fi character models, etc. The event is usually held twice a year: summer (late **July**) and winter (around **February**).
+- [Jump Festa](http://www.jumpfesta.com/) - An annual exhibition / fair which contains various Jump anthologies, The event is usually held on mid-**December**.
+- [Reitaisai / Touhou Project Grand Festival](reitaisai.com) - Initially, the event is held every spring (**May**), but in the last 4 years, there is also an autumn event (**October**).
+
+For contributors: The compiled event here should have more than 10,000 attendees.
 
 ## Resources
 
-TBD
+- Anime Pilgrimage - [Website](https://animetourism88.com/en/sanctuary), [Android App - Japanese](https://play.google.com/store/apps/details?id=jp.linknetwork.anitrip), [iOS App - Japanese](https://itunes.apple.com/us/app/wu-taimeguri-garuzu-pantsu/id680489568?l=ja&ls=1&mt=8)
 
 ## Uncategorized
 
