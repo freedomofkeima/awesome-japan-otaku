@@ -13,7 +13,12 @@ This list is far from complete, so contributions are always welcome!
 
 ## Places
 
-TBD
+- Akihabara, Tokyo - The holy land of otaku culture
+- Otome Road in Ikebukuro, Tokyo - "Maiden Road", which is mainly targeted for female subculture
+- Nakano Broadway in Nakano, Tokyo - A shopping complex famous for selling second hand anime goods ([Mandarake](http://earth.mandarake.co.jp/shop/nkn/index.html))
+- [Pokemon Center](http://www.pokemon.co.jp/gp/pokecen/english/)
+- Gundam Front in Odaiba, Tokyo - The location of 1:1 Gundam statue
+- [Ghibli Museum](http://www.ghibli-museum.jp/en/) in Mitaka, Tokyo - A must-go place for Ghibli fans, also please note that you need to reserve the ticket weeks beforehand
 
 ## Events
 
