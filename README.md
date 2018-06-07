@@ -19,6 +19,7 @@ This list is far from complete, so contributions are always welcome!
 - [Pokemon Center](http://www.pokemon.co.jp/gp/pokecen/english/)
 - Gundam Front in Odaiba, Tokyo - The location of 1:1 Gundam statue
 - [Ghibli Museum](http://www.ghibli-museum.jp/en/) in Mitaka, Tokyo - A must-go place for Ghibli fans, also please note that you need to reserve the ticket weeks beforehand
+- Nipponbashi Denden Town, Osaka - Quite similar to Akihabara in Tokyo, this place is another holy land in Osaka
 
 ## Events
 
@@ -30,12 +31,15 @@ This list is far from complete, so contributions are always welcome!
 - [Wonfes / Wonder Festival](http://wf.kaiyodo.net/) - The largest exhibition / fair of garage kits, sculptures (figures), mecha / sci-fi character models, etc. The event is usually held twice a year: summer (late **July**) and winter (around **February**).
 - [Jump Festa](http://www.jumpfesta.com/) - An annual exhibition / fair which contains various Jump anthologies, The event is usually held on mid-**December**.
 - [Reitaisai / Touhou Project Grand Festival](reitaisai.com) - Initially, the event is held every spring (**May**), but in the last 4 years, there is also an autumn event (**October**).
+- [Comic1](https://www.comic1.jp/) - A doujinshi fair similar to Comiket. While it is usually held during Golden week (end of **April** or the beginning of **May**), since last year, it is also being held on **October**.
+- [Comitia](https://www.comitia.co.jp/) - Mainly focused on original doujinshi, this event is usually held 4 times per year at Tokyo Big Sight (**February**, **May**, **August**, and **November**). In addition, there are also a lot of smaller events in other regions, such as Kansai, etc.
 
 For contributors: The compiled event here should have more than 10,000 attendees.
 
 ## Resources
 
 - Anime Pilgrimage - [Website](https://animetourism88.com/en/sanctuary), [Android App - Japanese](https://play.google.com/store/apps/details?id=jp.linknetwork.anitrip), [iOS App - Japanese](https://itunes.apple.com/us/app/wu-taimeguri-garuzu-pantsu/id680489568?l=ja&ls=1&mt=8)
+- "Hunting Grounds" for Goods or Tickets - [Yahoo Auction](https://auctions.yahoo.co.jp/), [Mercari](https://www.mercari.com/jp/), [Ticket.co.jp](https://www.ticket.co.jp/). For tickets, be careful that some events or concerts (usually smaller ones) require identity proof. 
 
 ## Uncategorized
 
