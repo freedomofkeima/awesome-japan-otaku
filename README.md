@@ -20,6 +20,7 @@ This list is far from complete, so contributions are always welcome!
 - Gundam Front in Odaiba, Tokyo - The location of 1:1 Gundam statue
 - [Ghibli Museum](http://www.ghibli-museum.jp/en/) in Mitaka, Tokyo - A must-go place for Ghibli fans, also please note that you need to reserve the ticket weeks beforehand
 - Nipponbashi Denden Town, Osaka - Quite similar to Akihabara in Tokyo, this place is another holy land in Osaka
+- Shinjuku - This might not be one of the first places an otaku would look for entertainment, but Shinjuku will always surprise you. Kabukicho is where you’ll find the famed Shinjuku Robot restaurant along with the Capcom Bar. Game developers Atlus (Devil Survivor) and Square Enix (Kingdom Hearts) have their headquarters here, and while you can’t go in, you can check out Square’s Artnia café for Dragon Quest or Final Fantasy refreshments.
 
 ## Events
 
