@@ -20,6 +20,7 @@ This list is far from complete, so contributions are always welcome!
 - Gundam Front in Odaiba, Tokyo - The location of 1:1 Gundam statue
 - [Ghibli Museum](http://www.ghibli-museum.jp/en/) in Mitaka, Tokyo - A must-go place for Ghibli fans, also please note that you need to reserve the ticket weeks beforehand
 - Nipponbashi Denden Town, Osaka - Quite similar to Akihabara in Tokyo, this place is another holy land in Osaka
+- [Gundam fort Tokyo](https://www.tripadvisor.in/Attraction_Review-g1066449-d2696969-Reviews-Gundam_Front_Tokyo-Koto_Tokyo_Tokyo_Prefecture_Kanto.html)
 
 ## Events
 
